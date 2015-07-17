@@ -27,4 +27,4 @@
 }
 </code></pre>
 
-![](https://github.com/NewUnsigned/ScollLabelNumber/ScollLabelNumber/2015-07-17 16_55_21.gif)
+![](https://github.com/NewUnsigned/ScollLabelNumber/raw/ScollLabelNumber/2015-07-17 16_55_21.gif)

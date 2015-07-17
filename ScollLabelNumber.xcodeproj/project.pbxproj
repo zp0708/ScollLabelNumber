@@ -16,6 +16,7 @@
 		0D2A95411B57B0EB007B5886 /* ScollLabelNumberTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D2A95401B57B0EB007B5886 /* ScollLabelNumberTests.m */; };
 		0D2A954C1B57B103007B5886 /* StarView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D2A954B1B57B103007B5886 /* StarView.m */; };
 		0D2A954F1B57B1F6007B5886 /* SliderLabelContainer.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D2A954E1B57B1F6007B5886 /* SliderLabelContainer.m */; };
+		0D2A95571B58FAA1007B5886 /* 2015-07-17 16_55_21.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0D2A95561B58FAA1007B5886 /* 2015-07-17 16_55_21.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		0D2A954B1B57B103007B5886 /* StarView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StarView.m; sourceTree = "<group>"; };
 		0D2A954D1B57B1F6007B5886 /* SliderLabelContainer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SliderLabelContainer.h; sourceTree = "<group>"; };
 		0D2A954E1B57B1F6007B5886 /* SliderLabelContainer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SliderLabelContainer.m; sourceTree = "<group>"; };
+		0D2A95561B58FAA1007B5886 /* 2015-07-17 16_55_21.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "2015-07-17 16_55_21.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 		0D2A95241B57B0EB007B5886 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0D2A95561B58FAA1007B5886 /* 2015-07-17 16_55_21.gif */,
 				0D2A95251B57B0EB007B5886 /* Info.plist */,
 				0D2A95261B57B0EB007B5886 /* main.m */,
 				0D2A954D1B57B1F6007B5886 /* SliderLabelContainer.h */,
@@ -211,6 +214,7 @@
 			files = (
 				0D2A95301B57B0EB007B5886 /* Main.storyboard in Resources */,
 				0D2A95351B57B0EB007B5886 /* LaunchScreen.xib in Resources */,
+				0D2A95571B58FAA1007B5886 /* 2015-07-17 16_55_21.gif in Resources */,
 				0D2A95321B57B0EB007B5886 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -430,6 +434,7 @@
 				0D2A95461B57B0EB007B5886 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0D2A95471B57B0EB007B5886 /* Build configuration list for PBXNativeTarget "ScollLabelNumberTests" */ = {
 			isa = XCConfigurationList;
@@ -438,6 +443,7 @@
 				0D2A95491B57B0EB007B5886 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

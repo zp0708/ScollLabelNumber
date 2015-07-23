@@ -14,6 +14,6 @@ enum SliderLabelContainerType{
 typedef enum SliderLabelContainerType SliderLabelContainerType;
 @interface SliderLabelContainer : UIView
 - (instancetype)initWithFrame:(CGRect)frame type:(SliderLabelContainerType)type;
-- (void)scrollToNum:(NSInteger)num;
+- (void)scrollToNum:(NSInteger)num animation:(BOOL)animation;
 
 @end

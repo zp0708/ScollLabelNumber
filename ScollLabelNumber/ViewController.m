@@ -29,7 +29,7 @@
 - (void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event
 {
     NSInteger num = arc4random_uniform(99);
-    [self.startView startLoadNumber:num];
+    [self.startView startLoadNumber:num animation:YES];
 }
 
 - (void)didReceiveMemoryWarning {

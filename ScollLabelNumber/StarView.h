@@ -9,6 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface StarView : UIView
-- (void)startLoadNumber:(NSInteger)num;
+- (void)startLoadNumber:(NSInteger)num animation:(BOOL)animation;
 @property (nonatomic, strong) UIImageView *imgView;
 @end
